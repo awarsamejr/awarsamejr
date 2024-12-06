@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Abdirahman and i am currently majorting in CS, here just ryna figure out GitHub and how to create a portofolio.
+## Hi there 👋 My name is Abdirahman and i am currently majorting in CS. tryna just figure out GitHub and how to create a portofolio.
 
 <!--
 **awarsamejr/awarsamejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
